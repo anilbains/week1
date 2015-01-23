@@ -16,7 +16,7 @@ App Description brief!
 
 
 Ongoing Ideas for Implementation:
-8.	As a user, I want to  Propose--activities/hangouts/plans[dinner/coffee/bakar/weed] with group members – yet to decide the process – push notification or a passive feed of activities
+8.	As a user, I want to  Propose--activities/hangouts/plans[dinner/coffee] with group members – yet to decide the process – push notification or a passive feed of activities
 9.	Report one’s location to group members
 a.	Family Safety Group for India
 10.	Group discount for stuffs for members of the group
